@@ -1,2 +1,2 @@
 # NazRepo
-Lab1
+Naz Lab1
