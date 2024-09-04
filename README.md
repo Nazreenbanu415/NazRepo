@@ -1,0 +1,2 @@
+# NazRepo
+Lab1
